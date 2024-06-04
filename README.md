@@ -1,2 +1,4 @@
-# uddesh-ai
-Carrier guidance through ai
+# INTELLIGENT CAREER GUIDANCE SYSTEM
+
+Youtube video link: https://www.youtube.com/watch?v=fMQfYWDIpWU
+
